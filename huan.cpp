@@ -5,4 +5,5 @@ int main()
 {
     cout<<"Hello world"<<"hi";
     cout<<"ok";
+    cout<<"yes";
 }
